@@ -23,12 +23,10 @@ print("Last character:", last_char)
 substring = text[1:4]
 print("Substring from second to fourth characters:", substring)
 
-
 print(text.upper())
 
 text_with_underscores = text.replace(' ', '_')
 print("Text with spaces replaced by underscores:", text_with_underscores)
-
 
 print("Enter the substring to find its position: ")
 search_substring = input()
