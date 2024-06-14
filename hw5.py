@@ -30,7 +30,7 @@ days_of_the_week = {
 }
 
 wednesday_num = days_of_the_week['wednesday']
-print(f'\nWednesday sequence number:, {wednesday_num}\n')
+print(f'\nWednesday sequence number: {wednesday_num}\n')
 
 # 26. Створити словник з інформацією про страву (назва, інгредієнти, час приготування) і вивести всі пари ключ-значення.
 
