@@ -41,4 +41,4 @@ dishes_names = {
 }
 
 for key, value in dishes_names.items():
-    print(f"Key: {key}, Value: {value}")x
+    print(f"Key: {key}, Value: {value}")
